@@ -24,3 +24,5 @@ ToDo
 -  Check if test for device alive can be done within the script ( Probaly for some devices can be done ).
 -  Define initial devices for implimintation.
 -  Boot over nfs the device and document all the process.
+-  Writing some initial test when booted.
+-  On the fit-PC3 side some kind of gui if the device booted or not.
